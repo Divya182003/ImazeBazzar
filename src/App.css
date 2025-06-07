@@ -1,5 +1,5 @@
 .main-container{
-    background-image: url("C:\Users\DR1006\React_project\public\Image\bg.jpg");
+    background-image: url("public\Image\bg.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
