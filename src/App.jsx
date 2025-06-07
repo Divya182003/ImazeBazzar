@@ -8,7 +8,7 @@ const ImageBazzar = () => {
 
   const images =[
     { src: "doctor.jpg", alt: "Healthcare",label:"Healthcare"},
-    { src: "/Image/travel.jpg", alt: "Travel" ,},
+    { src: "Image/travel.jpg", alt: "Travel" ,},
     { src: "/public/Image/makeup.jpg", alt: "Beauty", },
     { src: "/public/Image/business.jpg", alt: "Business" },
     { src: "/public/Image/family.jpg", alt: "Family" },
