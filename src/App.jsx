@@ -116,9 +116,9 @@ const ImageBazzar = () => {
 
     <footer className="footer">
       <div className="footer-section contact">
-        <p><FaEnvelope /> sanghanirutu944j@gmail.com</p>
+        <p><FaEnvelope /> divyabhootda36@gmail.com</p>
         <p><FaPhoneAlt /> <strong>All India Toll Free:</strong> 1800–11–6869</p>
-        <p><FaWhatsapp /> <strong>Whatsapp Us:</strong> +919911366666</p>
+        <p><FaWhatsapp /> <strong>Whatsapp Us:</strong> +917878307330</p>
         <div className="social-icons">
           <span><FaFacebookF /></span>
           <span><FaLinkedinIn /></span>
